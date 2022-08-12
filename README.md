@@ -1,2 +1,2 @@
-# CursoDeJava
-Repositorio correspondiente a la materia de Laboratorio II 
+# Rep.Giovanni
+Repositorio destinado a experimentacion 
